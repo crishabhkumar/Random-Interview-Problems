@@ -1,4 +1,4 @@
-Objective
+/*Objective
 In this challenge, we're going to use loops to help us do some simple math.
 
 Task
@@ -30,7 +30,7 @@ Sample Output
 2 x 8 = 16
 2 x 9 = 18
 2 x 10 = 20
-
+*/
 
 SOLUTION:
 import java.io.*;
@@ -40,7 +40,6 @@ import java.text.*;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
-
 
 
 public class Solution {

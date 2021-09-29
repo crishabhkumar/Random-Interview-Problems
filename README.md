@@ -1,2 +1,2 @@
-# random_problems
-Trying to solve some random problems and uploading their solutions
+# Random Interview Problems
+Some random interview problems and their solutions.
